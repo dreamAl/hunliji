@@ -1,0 +1,13 @@
+.fu{
+    width:93% ;
+    margin:0.3rem auto 0;
+    font-size: 0;
+}
+.fours{
+    width: 45%;
+    display: inline-block;
+    margin:0.02rem 0.04rem;
+}
+.fours>img{
+    width:100% ; 
+}

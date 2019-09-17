@@ -1,0 +1,31 @@
+.tops{
+    width: 93%;
+    font-size: 0;
+    top:0.05rem;
+    position: relative;
+    margin:0 auto;
+}
+.ant-input{
+    text-indent: 0.5rem;
+    width: 2.675rem;
+    height: .4rem;
+    outline: none;
+    border:none;
+    border-radius: 0.1rem;
+    background: #f2f3f7;
+    font-size: .18rem;
+    color:#ababab;
+}
+.ant-input-suffix{
+    font-size: 0.3rem;
+    position: absolute;
+    right:3.1rem;
+    top:0.05rem;
+    color:#ababab;
+}
+.tops>i{
+    font-size: 0.3rem;
+    color:#333333;
+    padding: 0  0.05rem;
+    vertical-align: middle;
+}

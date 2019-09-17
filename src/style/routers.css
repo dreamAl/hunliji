@@ -1,0 +1,23 @@
+.foot{
+    width: 100%;
+    font-size: 0.16rem;
+    position: fixed;
+    bottom:0;
+    display: flex;
+    background: white;
+    z-index: 10;
+    justify-content: space-around;
+    border-top:0.001rem solid #919191;
+}
+.foot>a{
+    padding:0.1rem 0;
+    text-align: center;
+    font-size: 0.16rem;
+    color:#919191;
+}
+.foot>a>i{  
+    font-size:0.3rem;  
+}
+.foot>.footCli{
+    color:#f83243;
+}

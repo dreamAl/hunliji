@@ -1,0 +1,35 @@
+.times{
+    width: 93%;
+    margin:0 auto;
+    font-size: 0.2rem;
+}
+.timeTw{
+    margin:0.2rem 0;
+    display: flex;
+}
+.timeTw>span{
+    line-height: 0.35rem;
+    font-size: 0.2rem;
+    display: inline-block;
+}
+.threes{
+    width: 30%;
+    display: inline-block;
+    margin:0 0.05rem;
+}
+.threes>p{
+    width:90%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 0.16rem;
+    font-weight: 500;
+}
+.threes>img{
+    width: 100%; 
+}
+.threes>b{
+   font-weight: 100;
+   font-size: 0.14rem;
+   color:#f83546;
+}
