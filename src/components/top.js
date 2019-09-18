@@ -4,6 +4,9 @@ import { Icon } from 'antd';
 import  "../style/top.css"
 const { Search } = Input;
 export default class top extends Component {
+     state = {
+    top: 10,
+  };
     render() {
         return (
             <div className="tops">

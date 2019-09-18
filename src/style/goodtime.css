@@ -7,15 +7,20 @@
     margin:0.2rem 0;
     display: flex;
 }
+.timeTw>h3{
+    font-weight: 700;
+}
 .timeTw>span{
     line-height: 0.35rem;
     font-size: 0.2rem;
+    font-weight: 700;
     display: inline-block;
 }
 .threes{
     width: 30%;
     display: inline-block;
     margin:0 0.05rem;
+    font-size: 0rem;
 }
 .threes>p{
     width:90%;
@@ -23,13 +28,13 @@
     text-overflow: ellipsis;
     overflow: hidden;
     font-size: 0.16rem;
-    font-weight: 500;
+    font-weight: 700;
 }
 .threes>img{
     width: 100%; 
 }
 .threes>b{
    font-weight: 100;
-   font-size: 0.14rem;
+   font-size: 0.2rem;
    color:#f83546;
 }

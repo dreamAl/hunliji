@@ -5,7 +5,6 @@
     white-space: nowrap;
     overflow: auto;
     position: relative; 
-    padding-bottom:  0.2rem;  
 }
 .smallnav>a:first-child{
     font-size: 0.3rem;

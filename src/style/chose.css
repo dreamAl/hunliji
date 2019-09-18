@@ -1,0 +1,37 @@
+.box{
+    width: 100%;
+    font-size: 0;
+    column-count: 2;
+}
+.jx{
+   width: 90%; 
+   margin:0 auto;
+}
+.jx>img{
+    width: 100%;
+}
+.jx>h3{
+    font-size: 0.2rem;
+}
+.jx>b{
+    font-size: 0.2rem;
+    color:#f73244;
+}
+.jx>span{
+    font-size: 0.18rem;
+    color:#989898;
+    text-decoration: line-through;
+}
+.jx>i{
+    display: block;
+    font-size: .2rem;
+    color:#989898;
+    font-style: normal;
+    margin-left:1rem;
+}
+.box>.jx:nth-child(3)>i{
+    display: none;
+}
+.box>.jx:nth-child(3)>h3{
+    display: none;
+}
